@@ -22,17 +22,21 @@ Este é um sistema completo desenvolvido para permitir a um professor (Carlos) i
 
 No terminal/bash:
 https://github.com/FelipeSilva96/Sistema-de-notas.git
+
 cd Sistema-de-notas
 
 2. Execute o backend (notas-api):
 
 cd notas-api
+
 mvn spring-boot:run
 
 3. Execute o frontend (gerenciador-notas-react):
 
 cd ../gerenciador-notas-react
+
 npm install
+
 npm start
 
 O frontend estará disponível em: http://localhost:3000

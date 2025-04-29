@@ -21,7 +21,7 @@ Este é um sistema completo desenvolvido para permitir a um professor (Carlos) i
 1. Clone o repositório:
 
 No terminal/bash:
-git clone https://github.com/SEU_USUARIO/Sistema-de-notas.git
+https://github.com/FelipeSilva96/Sistema-de-notas.git
 cd Sistema-de-notas
 
 2. Execute o backend (notas-api):

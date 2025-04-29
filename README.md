@@ -37,7 +37,7 @@ npm start
 
 O frontend estará disponível em: http://localhost:3000
 
-✅ Funcionalidades:
+## ✅ Funcionalidades:
 
 Cadastro de alunos com 5 notas (de 0 a 10) e frequência percentual (0 a 100%)
 
@@ -53,7 +53,7 @@ Alunos com média acima da média geral
 
 Alunos com frequência abaixo de 75%
 
-📌 Premissas
+## 📌 Premissas
 
 As notas devem estar entre 0 e 10
 
